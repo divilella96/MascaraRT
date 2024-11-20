@@ -10,7 +10,7 @@ Este projeto é um aplicativo simples que formata automaticamente um código num
 - O usuário insere um código numérico longo.
 - O código é formatado automaticamente no formato:
   ```
-  198631 2024-11-20 18:28 0004 0005 0805
+  1123456 2024-11-20 18:28 0004 0005 0805
   ```
 - Validação para garantir que o código segue o formato correto.
 
