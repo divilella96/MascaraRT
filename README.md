@@ -28,7 +28,7 @@ Este projeto é um aplicativo simples que formata automaticamente um código num
 
 ```
 .
-├── Mascara.html     # Estrutura principal do aplicativo
+├── index.html     # Estrutura principal do aplicativo
 ├── style.css      # Estilização da interface
 ├── script.js      # Lógica de formatação do código
 └── README.md      # Documentação do projeto
@@ -86,4 +86,4 @@ Este projeto está sob a licença MIT. Você pode usá-lo e modificá-lo livreme
 
 ---
 
-Feito com ❤️ por [Diego Vilela Rodrigues]. 😊
+Feito com ❤️ por [Diego Vilella Rodrigues]. 😊
