@@ -40,3 +40,10 @@ input {
   border-radius: 5px;
   word-wrap: break-word;
 }
+
+svg#barcode {
+  margin-top: 20px;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
