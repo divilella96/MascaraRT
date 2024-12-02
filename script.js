@@ -13,7 +13,7 @@ document.getElementById('inputCodigo').addEventListener('input', function () {
       lineColor: "#000",
       width: 2,
       height: 50,
-      displayValue: false,
+      displayValue: false, // Não exibe o texto abaixo do código de barras
     });
   } else {
     document.getElementById('codigoFormatado').textContent = 'Formato inválido ou incompleto.';
